@@ -1,12 +1,12 @@
 apiVersion: v1
 entries:
-  integration-dev:
+ nifi-registry-helm:
   - apiVersion: v2
     appVersion: 1.0.0
     created: "2022-05-23T17:29:34.9946507+03:00"
     description: A Helm chart for Kubernetes
     digest: f960e5fc8260a1c75049153b39b3f03b7f4587c29eee1ea5a8302981f248f30b
-    name: integration-dev
+    name: nifi-registry-helm
     type: application
     urls:
     - https://github.com/POGitMail/nifi-registry-helm
